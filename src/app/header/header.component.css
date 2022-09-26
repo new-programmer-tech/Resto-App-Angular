@@ -1,0 +1,22 @@
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  list-style: none;
+}
+
+a,
+.icon {
+  color: black;
+  font-weight: 900;
+  font-family: cursive;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: aqua;
+  padding: 10px;
+}
