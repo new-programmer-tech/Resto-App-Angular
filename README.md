@@ -12,4 +12,6 @@ Its is a simple restaurant app in this app you can perform CURD operations , you
 4. Form
 5. json
 6. BootStrap
+7. Service
+8. Routing
 ```
