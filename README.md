@@ -21,14 +21,14 @@ Its is a simple restaurant app in this app you can perform CURD operations , you
 
 - #### If you want to set your default url :-
 when user will hit https://localhost:4200/
+```
+{ path: '', component: LoginComponent }
 
 ```
- { path: '', component: LoginComponent }
 
-```
 - #### If user will an url which is not defined :-
 when user will hit https://localhost:4200/gibberish
-
 ```
- { path: '**', pathMatch: 'full', component: PagenotfoundComponent },
+{ path: '**', pathMatch: 'full', component: PagenotfoundComponent }
+
 ```
