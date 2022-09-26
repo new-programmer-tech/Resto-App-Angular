@@ -1,0 +1,37 @@
+{
+  "restaurants": [
+    {
+      "name": "kfc",
+      "email": "kfc@test",
+      "address": "pune",
+      "id": 1
+    },
+    {
+      "name": "mcd",
+      "email": "mcd@test",
+      "address": "delhi",
+      "id": 2
+    },
+    {
+      "name": "ccd",
+      "email": "ccd.test",
+      "address": "mumbai",
+      "id": 3
+    },
+    {
+      "name": "subway",
+      "email": "sub@test",
+      "address": "punjab 12",
+      "id": 4
+    }
+  ],
+
+  "newUser": [
+    {
+      "name": "sam",
+      "email": "sam@test",
+      "password": "122",
+      "id": 1
+    }
+  ]
+}
