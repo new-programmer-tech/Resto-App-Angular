@@ -14,6 +14,7 @@ Its is a simple restaurant app in this app you can perform CURD operations , you
 6. BootStrap
 7. Service
 8. Routing
+9. Snapshot
 ```
 
 > ## Routing Concept:-
